@@ -1,0 +1,6 @@
+branch_id,branch_name,city,state,ifsc_code
+1,Kolkata Main,Kolkata,West Bengal,SBIN0001
+2,Mumbai Central,Mumbai,Maharashtra,SBIN0002
+3,Delhi Branch,Delhi,Delhi,SBIN0003
+4,Bangalore Tech,Bangalore,Karnataka,SBIN0004
+5,Chennai South,Chennai,Tamil Nadu,SBIN0005
